@@ -1,0 +1,10 @@
+# Environments
+venv392
+*/venv392
+.venv
+*/.venv
+# Git Examples
+# import
+__pycache__
+*/__pycache__
+*/*/__pycache__
